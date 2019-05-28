@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="suelo_arenoso"> El suelo arenoso es el que tiene las partículas más grandes en comparación a los otros Tipos De Suelos. Es seco y arenoso al tacto y debido a que las partículas tienen espacios enormes entre ellos, no puede aferrarse al agua.</string>
+    <string name="suelo_arenoso1">En este suelo el agua drena rápidamente, directamente a lugares donde las raíces, particularmente las de plántulas, no pueden alcanzar. Las plantas no tienen la oportunidad de usar los nutrientes en el suelo arenoso de una manera muy eficiente, ya que son rápidamente llevados por la escorrentía.</string>
+    <string name="suelo_arenoso2">¿QUE CULTIVOS PODEMOS SEMBRAR EN TIPOS DE SUELOS ARENOSOS?</string>
+    <string name="suelo_arenoso3">Tubérculos y Raíces: Patata, Batata, Yuca, Ñame, Boniato, Chufas, Taro, Nabo, Remolacha, Rábano, Zanahoria, Apio</string>
+
+    <string name="suelo_limoso">El suelo limoso tiene partículas mucho más pequeñas que el suelo arenoso por lo que es suave al tacto. Cuando este tipo de suelo se humedece, es jabonoso y mancha. Cuando tratas de enrollarlo entre tus dedos, se desprende una gran suciedad dejándotela en tu piel.</string>
+    <string name="suelo_limoso1">Los suelos limosos pueden retener el agua y los nutrientes por más tiempo.  Su color es marrón oscuro, y se compone de una mezcla de arena fina y arcilla formando una especie de barro de lodo y restos vegetales. Estos suelos tienden a estar en las orillas de los ríos y por lo general son suelos muy fértiles debido a su grado de humedad y nutrientes.</string>
+    <string name="suelo_limoso2">¿Que sembrar en el tipo de suelo limoso?</string>
+    <string name="suelo_limoso3">En los suelos limosos puede crecer casi todos los tipos de árboles y plantas, salvo las que necesiten condiciones muy secas. Crecen bien árboles como los sauces, los fresnos, las encinas, los chopos o los álamos.
+Entre las plantas que se pueden plantar tenemos arroz, lechuga, alcachofas y coles.
+Es muy utilizado para el cultivo de las verduras y hortalizas
+</string>
+    
+    
+    <string name="suelo_arcilla">El suelo arcilloso tiene las partículas más pequeñas por lo que tiene buenas cualidades de almacenamiento de agua. Es pegajoso al tacto cuando está mojado, pero liso cuando está seco.</string>
+    <string name="suelo_arcilla1">Debido al pequeño tamaño de sus partículas y su tendencia a establecerse, poco aire pasa a través de sus espacios. Debido a que también es más lento de drenar, tiene una retención más estricta de los nutrientes para las plantas.</string>
+    <string name="suelo_arcilla2">¿Qué plantas están mayormente adaptadas a este tipo de suelo?</string>
+    <string name="suelo_arcilla3">Repollos, brócoli y cualquier planta de la familia se dan en este tipo de suelo.
+Girasol, también se adapta fácilmente, además de darnos pipas, atrae a las abejas y embellece la huerta.
+    </string>
+
+
+    <string name="suelo_turba">Este tipo de suelo es excelente para el cultivo, se utiliza mayormente en la agricultura como un sustrato para el cultivo. El tipo de suelo turba es de color oscuro marrón o negro, tiene una textura suave y contienen mucha agua y nutrientes. Estos suelos suelen estar saturados de agua, sin embrago, una vez drenados son muy “buenos para cultivar”.</string>
+    <string name="suelo_turba1">Una de las características más valiosas de los suelos turba es su capacidad para retener el agua en los meses de sequía y su capacidad para resguardar las raíces de las bajas temperaturas en las temporadas de invierno. Este tipo de suelo tienen un pH ácido con valores entre 3,5 y 4 y los agricultores lo usan para regular la química del suelo y como un agente de control de plagas en el suelo.</string>
+    <string name="suelo_turba2">¿Qué es la turba?</string>
+    <string name="suelo_turba3">La turba en realidad es el nombre genérico que se aplica a diversos materiales procedentes de la descomposición de vegetales, dependiendo de las condiciones medioambientales del lugar de donde se descompongan.</string>
+
+
+
+    <string name="suelo_salino">Son característicos de las regiones secas, tiene un alto contenido de sales que influyen en las plantas, en realidad no son suelos muy buenos para la agricultura pues causan dificultades en su eficiente crecimiento. En los suelos salinos los cultivos crecen poco pues se les acumulan las sales solubles en la parte de las raíces.</string>
+    <string name="suelo_salino1">Se puede distinguir por el cultivo de plantas débiles y raquíticas, así como también por la presencia de algunas costras blancas de sal en su superficie.</string>
+    <string name="suelo_salino2">La salinización del suelo es un fenómeno que por sus diversas causas origina cambios negativos en éste, dañando a los cultivos por el excesivo contenido de sales, lo cual afecta el rendimiento. Por ello, deben conocerse causas, efectos, y posibles tratamientos para manejarlo.</string>
+
+
+
+    
+
+</resources>

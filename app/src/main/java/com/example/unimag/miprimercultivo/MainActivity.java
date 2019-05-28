@@ -22,11 +22,13 @@ public class MainActivity extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        devolver();
+    }
+
+    public void devolver(){
+
+        Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-
-
-
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         ActionBarDrawerToggle toggle = new ActionBarDrawerToggle(
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
@@ -39,7 +41,7 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public void onBackPressed() {
-        DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
+        DrawerLayout drawer = findViewById(R.id.drawer_layout);
         if (drawer.isDrawerOpen(GravityCompat.START)) {
             drawer.closeDrawer(GravityCompat.START);
         } else {
@@ -47,20 +49,10 @@ public class MainActivity extends AppCompatActivity
         }
     }
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.main, menu);
-        return true;
-    }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
+      int id = item.getItemId();
         return super.onOptionsItemSelected(item);
     }
 
@@ -75,22 +67,42 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_arenoso) {
 
+            android.support.v7.widget.Toolbar toolbar = findViewById(R.id.toolbar);
+            setSupportActionBar(toolbar);
+            getSupportActionBar().setTitle("Suelo Arenoso");
+            devolver();
             fragmentManager.beginTransaction().replace(R.id.contenedor,new Suelo_Arenoso()).commit();
 
           } else if (id == R.id.nav_limoso) {
 
+            android.support.v7.widget.Toolbar toolbar = findViewById(R.id.toolbar);
+            setSupportActionBar(toolbar);
+            getSupportActionBar().setTitle("Suelo Limoso");
+            devolver();
             fragmentManager.beginTransaction().replace(R.id.contenedor,new Suelo_Limoso()).commit();
 
           } else if (id == R.id.nav_arcilloso) {
 
+            android.support.v7.widget.Toolbar toolbar = findViewById(R.id.toolbar);
+            setSupportActionBar(toolbar);
+            getSupportActionBar().setTitle("Suelo Arcilloso");
+            devolver();
             fragmentManager.beginTransaction().replace(R.id.contenedor,new Suelo_Arcilloso()).commit();
 
           } else if (id == R.id.nav_turba) {
 
+            android.support.v7.widget.Toolbar toolbar = findViewById(R.id.toolbar);
+            setSupportActionBar(toolbar);
+            getSupportActionBar().setTitle("Suelo Turba");
+            devolver();
             fragmentManager.beginTransaction().replace(R.id.contenedor,new Suelo_Turba()).commit();
 
           } else if (id== R.id.nav_salino){
 
+            android.support.v7.widget.Toolbar toolbar = findViewById(R.id.toolbar);
+            setSupportActionBar(toolbar);
+            getSupportActionBar().setTitle("Suelo Salino");
+            devolver();
             fragmentManager.beginTransaction().replace(R.id.contenedor,new Suelo_Salino()).commit();
         }
 
