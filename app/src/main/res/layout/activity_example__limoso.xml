@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Example_Arenoso">
-
+    tools:context=".Example_Limoso">
 
 
     <ScrollView
@@ -19,7 +18,7 @@
             android:orientation="vertical">
 
             <android.support.v7.widget.Toolbar
-                android:id="@+id/toolbar2"
+                android:id="@+id/toolbar5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -120,5 +119,4 @@
     </ScrollView>
 
 
-
-</LinearLayout>
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="salino">Origen de la salinización</string>
+    <string name="salino1">Un suelo salino tiene una elevada concentración de sales cuando su conductividad eléctrica (CE) supera 4 mmhos/cm a 25ºC, con porcentaje de sodio de cambio inferior al 15% y pH menor de 8,5. La concentración de sales puede llegar incluso al 1% de su peso</string>
+
+    <string name="salino2">Causas naturales</string>
+    <string name="salino3">Van del material que formó el suelo, clima árido y escasez de lluvias, a zonas sin drenaje. En zonas costeras y semiáridas, el viento arrastra gran cantidad de partículas en suspensión conteniendo sulfatos y cloruros que forman sales</string>
+
+    <string name="salino4">Efectos de la salinización</string>
+    <string name="salino5">Efecto osmótico</string>
+    <string name="salino6">El agua y los nutrientes de la solución del suelo se distribuyen en delgadas láminas alrededor y en el interior de los agregados del suelo. Las raíces vegetales pueden absorber este líquido hasta el punto de marchitez permanente, cuando la salinidad de la solución del suelo es mayor que los líquidos de las células vegetales</string>
+
+    <string name="salino7">Estrés hídrico</string>
+    <string name="salino8">Es el primer efecto producido en la planta, porque ésta no puede extraer agua de la solución del suelo por la concentración salina. En condiciones normales, la piel radicular actúa como una membrana semipermeable que deja entrar el agua del suelo, buscando un equilibrio donde la concentración de ésta sea igual que el jugo celular de la planta.</string>
+
+    <string name="salino9">Efecto nutricional</string>
+    <string name="salino00">La salinidad altera el pH del suelo, afectando la disponibilidad de nutrientes y las interacciones ocasionadas por la presencia en exceso de determinados elementos, provocando que algunos nutrientes queden bloqueados.</string>
+
+
+    <string name="salino11">Causas antrópicas</string>
+    <string name="salino12">Se originan por un manejo incorrecto de técnicas agrícolas, debido al uso de aguas de riego conteniendo sales por estar en los niveles freáticos o que provienen de fuentes contaminadas con aguas industriales.</string>
+
+    <string name="salino13">Efecto tóxico</string>
+    <string name="salino14">Principalmente se da con iones de calcio y sodio, donde este último provoca la pérdida de la estructura del suelo, así como un bajo crecimiento de la planta por la disminución del contenido de oxígeno necesario para la respiración de las raíces, y el descenso de la conductividad hidráulica del suelo.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

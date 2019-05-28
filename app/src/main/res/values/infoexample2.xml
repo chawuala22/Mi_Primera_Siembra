@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="brocoli1">¿Cómo se siembran los brócolis? </string>
+    <string name="brocoli2">Las semillas de brócoli son redondas de un color rojo oscuro o grisáceo, su diámetro es de 1mm. La siembra se realiza en semillero con una mezcla que contenga composta para que las plántulas se desarrollen mejor. El semillero debe tener un drenaje adecuado. La profundidad de la siembra es tres veces el tamaño de la semilla (1cm aproximadamente). Después cubra las semillas y riegue.</string>
+
+    <string name="brocoli3">Siembra y trasplante</string>
+    <string name="brocoli4">El brócoli necesita muchos nutrientes y crece mejor en un suelo con un pH neutro (6.0-7.0), también necesita sol directo. Aflojar la cama de cultivo y aplicar una capa de composta (1cm). Las plántulas estarán listas cuando aparezca el segundo par de hojas verdaderas. La distancia entre plantas es de 40cm. Saque las plántulas con cuidado para no lastimar las raíces. Si las raíces se encuentran muy enroscadas debe soltarlas y recortarlas un poco si es necesario, esto fomentará su crecimiento. La profundidad del orificio del trasplante debe ser suficientemente profunda para que se cubra hasta las primeras hojas verdaderas. Riegue sus plántulas después del trasplante.</string>
+
+    <string name="brocoli5">Plagas y manejo</string>
+    <string name="brocoli6">Por sus nutritivas características, estos cultivos son el blanco perfecto para una gran cantidad de plagas. La mejor manera de evitarlas  es monitoreando continuamente nuestras plantas, debemos revisar el envés de nuestras hojas ya que ahí podemos encontrar una gran cantidad de insectos como pulgones y larvas. Otras plagas son el saltamontes, insecto arlequín y mosca blanca. Cubre tus plantas con agrovelo o agribón para evitar que las plagas lleguen a tus plantas.</string>
+
+    <string name="brocoli7">Cosecha y almacenamiento</string>
+
+
+    <string name="brocoli8">Variedades de Brócoli</string>
+
+</resources>

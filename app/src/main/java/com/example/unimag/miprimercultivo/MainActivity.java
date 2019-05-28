@@ -50,11 +50,6 @@ public class MainActivity extends AppCompatActivity
     }
 
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-      int id = item.getItemId();
-        return super.onOptionsItemSelected(item);
-    }
 
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
@@ -64,6 +59,7 @@ public class MainActivity extends AppCompatActivity
         // Handle navigation view item clicks here.
         int id = item.getItemId();
         FragmentManager fragmentManager = getSupportFragmentManager();
+
 
         if (id == R.id.nav_arenoso) {
 

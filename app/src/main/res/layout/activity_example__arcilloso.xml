@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Example_Arenoso">
-
+    tools:context=".Example_Arcilloso">
 
 
     <ScrollView
@@ -19,7 +18,7 @@
             android:orientation="vertical">
 
             <android.support.v7.widget.Toolbar
-                android:id="@+id/toolbar2"
+                android:id="@+id/toolbar4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -37,7 +36,7 @@
                 android:layout_marginStart="5dp"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/potate1" />
+                android:text="@string/brocoli1" />
 
             <TextView
                 android:id="@+id/textView4"
@@ -47,8 +46,15 @@
                 android:layout_height="wrap_content"
                 android:textSize="18dp"
                 android:textColor="#000"
-                android:text="@string/potate2"
+                android:text="@string/brocoli2"
                 android:layout_marginLeft="5dp" />
+
+            <ImageView
+                android:id="@+id/potate1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/broco1" />
 
             <TextView
                 android:id="@+id/textView6"
@@ -59,8 +65,15 @@
                 android:textSize="18dp"
                 android:textColor="#000"
                 android:textStyle="bold"
-                android:text="@string/potate4"
+                android:text="@string/brocoli3"
                 android:layout_marginLeft="5dp" />
+
+            <ImageView
+                android:id="@+id/broc12o"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/broco2" />
 
             <TextView
                 android:id="@+id/textView7"
@@ -70,8 +83,9 @@
                 android:layout_height="wrap_content"
                 android:textSize="18dp"
                 android:textColor="#000"
-                android:text="@string/potate5"
+                android:text="@string/brocoli4"
                 android:layout_marginLeft="5dp" />
+
 
             <TextView
                 android:id="@+id/textView8"
@@ -80,8 +94,9 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="18dp"
+                android:textStyle="bold"
                 android:textColor="#000"
-                android:text="@string/potate6"
+                android:text="@string/brocoli5"
                 android:layout_marginLeft="5dp" />
 
             <TextView
@@ -92,8 +107,15 @@
                 android:layout_height="wrap_content"
                 android:textSize="18dp"
                 android:textColor="#000"
-                android:text="@string/potate7"
+                android:text="@string/brocoli6"
                 android:layout_marginLeft="5dp" />
+
+            <ImageView
+                android:id="@+id/broco"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/broco6" />
 
             <TextView
                 android:id="@+id/textView5"
@@ -105,20 +127,44 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textStyle="bold"
-                android:text="@string/potate3" />
+                android:text="@string/brocoli7" />
 
-
-            <Button
-                android:id="@+id/buttonarenoso"
-                android:layout_width="wrap_content"
-                android:layout_marginLeft="400px"
-                android:gravity="center"
+            <ImageView
+                android:id="@+id/broc2"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="->" />
-        </LinearLayout>
+                android:src="@drawable/cosechabroco" />
+
+            <ImageView
+                android:id="@+id/broco3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/b" />
+
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_marginTop="20dp"
+                android:textColor="#000"
+                android:layout_marginStart="5dp"
+                android:layout_marginLeft="5dp"
+                android:textSize="18dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="Variedad del Brocoli" />
+
+
+            <ImageView
+                android:id="@+id/broco3qw"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:src="@drawable/broco5" />
+
+                   </LinearLayout>
     </ScrollView>
 
-
-
-</LinearLayout>
+</android.support.constraint.ConstraintLayout>

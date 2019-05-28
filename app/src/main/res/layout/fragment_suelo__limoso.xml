@@ -67,7 +67,7 @@
                 android:text="@string/suelo_limoso3" />
 
             <Button
-                android:id="@+id/buttonalimoso"
+                android:id="@+id/buttonlimoso"
                 android:layout_width="match_parent"
                 android:layout_marginTop="10dp"
                 android:layout_height="wrap_content"

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="turba">¿Cómo se forma?</string>
+    <string name="turba1">Las plantas, como sabemos, tienen una esperanza de vida limitada. A medida que sus hojas, flores y tallos se van secando, van cayendo al suelo, donde una serie de microorganismos como los hongos los irán descomponiendo. Cuando esto sucede en pantanos, marismas o humedales, la actividad microbiana que hay en esos lugares es muy escasa, de modo que la turba necesita años para formarse y alcanzar varios metros de espesor. El proceso es tan lento, que se calcula que se va acumulando a un ritmo de unos diez centímetros cada cien años.</string>
+
+    <string name="turba2">Tipos de Turba</string>
+    <string name="turba3">Turba negra</string>
+    <string name="turba5">Se forma en zonas bajas, ricas en bases. Están muy descompuestas, por lo que su color es marrón oscuro casi negro. El pH es alto, entre 7,5 y 8. No tiene casi ningún nutriente. Ahora bien, es la más idónea para cultivar prácticamente todo tipo de plantas: hortícolas, flores, árboles… ¿Por qué? Porque permite que tengan un buen desarrollo.</string>
+    <string name="turba4">Turba rubia</string>
+    <string name="turba6">Se forma en los lugares donde las temperaturas se mantienen suaves, y donde las precipitaciones son muy abundantes. Estas condiciones dan lugar a una tierra muy pobre en nutrientes. El pH es bajo, entre 3 y 4. Se utiliza para plantas carnívoras, ya que además al no contener casi nutrientes les permite crecer sin problemas, y también para acidificar el suelo o incluso el sustrato, algo que les irá de maravilla a las plantas acidófilas como los arces japoneses o las azaleas. El porcentaje en este último caso dependerá del pH que tenga la tierra del jardín o de la maceta, pero por lo general hay que añadir un 40% de turba rubia.</string>
+
+    <string name="turba7">¿Para qué se utiliza?</string>
+    <string name="turba8">Hoy en día se utiliza para cultivar prácticamente todo tipo de plantas: cactus, helechos, flores, árboles, etc. Lo único que hay que tener muy en cuenta es que apenas tienen nutrientes -de hecho, el nitrógeno, nutriente esencial para el crecimiento de los seres vegetales, no llega al 1%-, por lo que las plantas que tengamos deben de ser abonadas regularmente, excepto si con carnívoras, ya que de lo contrario se echarán a perder al cabo de un tiempo.</string>
+
+
+</resources>

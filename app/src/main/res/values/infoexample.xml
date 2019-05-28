@@ -2,11 +2,36 @@
 <resources>
 
 
-    <string name="potate">PATATAS</string>
     <string name="potate1">¿Cómo se siembran las patatas?</string>
     <string name="potate2">Para los principiantes en la elaboración de hortalizas en los huertos urbanos o tradicionales, aquí tenéis una guía rápida para enseñaros cómo sembrar las patatas en el huerto. El cultivo de la patata es sencillo si sabéis como se realiza. Os queremos ayudar a que tengáis una cosecha de patatas ideal para consumir durante todo el año en casa. Conseguir patatas frescas, naturales y ecológicas de vuestro huerto a la mesa de casa es posible</string>
-    <string name="potate3"></string>
-    <string name="potate4"></string>
+    <string name="potate3">Para sembrar las patatas seguir estos sencillos pasos:</string>
+    <string name="potate4">Las plagas más comunes de la patata son la mosca blanca, pulgón, escarabajo de la patata y oídio. Aquí tenéis las posibles soluciones a estos problemas:</string>
+    <string name="potate5">Mosca blanca y pulgón: tratar las plantas de la patata con Vegex White Fly, Triple Acción Flower, Tierra de Diatomeas o Aceite de Neem.</string>
+    <string name="potate6">Escarabajo de patata: Emplear Bacillus Thuriengienses o Tierra de Diatomeas</string>
+    <string name="potate7">Oídio: Aplicar azufre mojable o azufre en polvo.</string>
 
+    <string name="no1">Numero 1</string>
+    <string name="first">Lo primero que necesitaréis hacer es preparar la tierra del huerto. Labrar o soltar el suelo hasta conseguir una tierra suelta. Utilizar una motoazada para huertos grandes o una azada para los huertos más pequeños.</string>
+
+    <string name="no2">Numero 2</string>
+    <string name="second">Aplicar materia orgánica en el suelo y remover el suelo para que sea más rico en nutrientes.</string>
+
+    <string name="no3">Numero 3</string>
+    <string name="tre">	Si el calibre de las patatas de siembra es grande podréis cortarlas en dos o tres trozos. Es importante que al realizar el corte dejéis al menos un par de brotes por trozo. Cortar las patatas un par de días antes de realizar la siembra para que los cortes cicatricen y evitéis posibles plagas.</string>
+
+    <string name="no4">Numero 4</string>
+    <string name="forr">Hacer una pequeña zanja de unos 7 centímetros de profundidad y 25 centímetros de ancha, después inundarla con agua un par de veces. Cuando se filtre el agua de la zanja colocar los trozos de patatas con una distancia de 25 centímetros. Con esta manera de inundar un par de veces el surco dónde se plantan, aportará a nuestro cultivo la suficiente humedad hasta la aparición de los primeros brotes.</string>
+
+    <string name="no5">Numero 5</string>
+    <string name="fai">Otro modo de plantar la patata si utilizáis el riego por goteo es, hacer una pequeña zanja en la que quepan los trozos de patata de siembra y posteriormente taparlos haciendo y pequeño caballón. Después de hacer esto darle un buen riego con el sistema de goteo.</string>
+
+    <string name="no9">	Las patatas estarán listas para su recolección en un periodo de 120 a 150 días dependiendo de la variedad que sembréis en vuestro huerto.</string>
+    <string name="no00">Cuando recojáis las patatas conservarlas con polvo anti-germinado, para que no se piquen. Colocar las patatas en cajas y espolvorearlas con este producto poniendo las patatas por capas para que llegue a todos los rincones.</string>
+
+
+    <string name="no6">NOTA</string>
+    <string name="six">La distancia entre surcos o zanjas puede oscilar entre 70 a 80 centímetros.
+Tapar las patatas con la tierra mezclada con estiércol o humus de lombriz. Hacer unos pequeños caballones al tapar la patata de siembra. Debéis tener en cuenta que cuando la planta va creciendo hay que aplicarles tierra a los costados del caballón, con esto conseguiremos que las raíces de la patata tengan sitio para crecer dónde no les dé el sol.
+</string>
 
 </resources>

@@ -55,13 +55,177 @@
                 android:text="@string/suelo_salino2"
                 android:layout_marginLeft="5dp" />
 
-
-            <Button
-                android:id="@+id/buttonalimoso"
-                android:layout_width="match_parent"
+            <TextView
+                android:id="@+id/textView41"
                 android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="EJEMPLO" />
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:id="@+id/textView31"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino1"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:id="@+id/textView411"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino2"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:id="@+id/textView331"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino3"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:id="@+id/textView1121"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino4"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:id="@+id/textView1422"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino5"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:id="@+id/textView311"
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino6"
+                android:layout_marginLeft="5dp" />
+
+
+            <TextView
+                android:id="@+id/textView166"
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino7"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino8"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino9"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino00"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino11"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino12"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:textStyle="bold"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino13"
+                android:layout_marginLeft="5dp" />
+
+            <TextView
+                android:layout_marginTop="10dp"
+                android:layout_marginStart="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:textColor="#000"
+                android:text="@string/salino14"
+                android:layout_marginLeft="5dp" />
+
+
+
+
+
         </LinearLayout>
     </ScrollView>
 
