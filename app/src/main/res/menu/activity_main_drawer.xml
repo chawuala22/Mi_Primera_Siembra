@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:title="TIPO DE SUELOS"/>
+
+        <item
+            android:id="@+id/nav_arenoso"
+            android:title="Suelo Arenoso" />
+        <item
+            android:id="@+id/nav_limoso"
+            android:title="Suelo Limoso" />
+        <item
+            android:id="@+id/nav_arcilloso"
+            android:title="Suelo Arcilloso" />
+        <item
+            android:id="@+id/nav_turba"
+            android:title="Suelo Turba " />
+
+        <item
+            android:id="@+id/nav_salino"
+            android:title="Suelo Salino " />
+    </group>
+
+
+
+</menu>
