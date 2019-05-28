@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="cuidar">CUIDAR LAS PLANTAS DEL SEMILLERO</string>
+    <string name="cuidar1">Numero 1</string>
+
+    <string name="cuidar2">Llena las cubetas o el espacio del jardín con al menos 5 cm (2 pulgadas) de agua. </string>
+    <string name="cuidar3">Asegúrate de que el suelo esté mojado y añade abono o mantillo al suelo, cubriendo ligeramente los granos de arroz. Esto asentará automáticamente las semillas en el suelo. El abono orgánico mantiene la humedad, así que es una buena opción (especialmente en climas más secos).</string>
+
+    <string name="cuidar4">Numero 2</string>
+    <string name="cuidar5">Observa los niveles de agua del área de siembra y mantén el suelo constantemente húmedo</string>
+
+    <string name="cuidar6">Si tus plantas están en cubetas, es posible que desees considerar la posibilidad de moverlas por la noche (cuando el clima se pone más frío) a un lugar más cálido.</string>
+    <string name="cuidar7">Numero 3</string>
+
+    <string name="cuidar8">Dispersa o espacia las semillas de arroz para prevenir una aglomeración</string>
+    <string name="cuidar9">A no más de 10,2 cm (4 pulgadas) de distancia en las filas que oscilan entre los 23 y 21 cm (entre 9 y 12 pulgadas) de distancia. Permite que las semillas crezcan hasta 18 cm (7 pulgadas) de alto, lo cual toma aproximadamente un mes</string>
+
+    <string name="cuidar00">Numero 4</string>
+    <string name="cuidar11">Espera a que los granos de arroz maduren </string>
+
+    <string name="cuidar12">Esto tomará aproximadamente entre 3 y 4 meses. Deja que el agua se seque o drena el exceso de agua antes de retirar el arroz para la recolección. Cuando los granos de arroz pasen de color verde a dorado sabrás que están listos.</string>
+
+
+</resources>

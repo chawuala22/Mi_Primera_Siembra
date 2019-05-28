@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="arroz">El Arroz</string>
+    <string name="arroz1">El arroz viene en texturas de grano largo, medio y corto. Puede crecer fácilmente en tu jardín trasero, en un cantero o en cubetas, siempre y cuando se le proporcione la cantidad correcta de suelo, agua y otros nutrientes. El arroz crece en condiciones húmedas o en condiciones parecidas a las de un pantano. Una vez que los granos de arroz se desarrollan, el agua en la cual crecen se debe drenar de manera que puedas recolectar y moler el cultivo. Después de los procesos de recolección y molienda, ya puedes comer el arroz</string>
+
+    <string name="arroz2">Plantar el arroz</string>
+    <string name="arroz3">Numero 1</string>
+
+    <string name="arroz4">El Compra semillas de arroz en cualquier tienda de jardinería o de campesinos.</string>
+    <string name="arroz5">Numero 2</string>
+
+    <string name="arroz6">Escoge tu lugar de plantación.</string>
+    <string name="arroz7">Debe cumplir los siguientes requisitos:</string>
+
+    <string name="arroz8">Numero 3</string>
+    <string name="arroz9">Reúne al menos de 30 a 60 gramos (entre 1 y 2 onzas) de semillas de arroz para sembrar</string>
+
+    <string name="arroz00">Numero 4</string>
+    <string name="arroz11">Planta las semillas de arroz a lo largo del suelo durante la temporada de otoño o primavera</string>
+
+    <string name="arroz12">Deshazte de las malas hierbas y nivela el suelo. Si estás utilizando cubetas, llénalas con al menos 15 cm (6 pulgadas) de suelo húmedo. Luego, añade las semillas de arroz</string>
+
+
+
+
+
+</resources>

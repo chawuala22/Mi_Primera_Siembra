@@ -11,6 +11,7 @@ import android.widget.TextView;
 public class Splash extends AppCompatActivity {
 
     private TextView tv;
+    private TextView tv1;
     private ImageView iv;
 
     @Override
@@ -20,11 +21,14 @@ public class Splash extends AppCompatActivity {
 
 
         tv = findViewById(R.id.tv);
-        iv = (ImageView) findViewById(R.id.iv);
+        iv = findViewById(R.id.iv);
+        tv1= findViewById(R.id.tv1);
+
         Animation myanim = AnimationUtils.loadAnimation(this, R.anim.mytransition);
         tv.startAnimation(myanim);
         iv.startAnimation(myanim);
-        final Intent i = new Intent(this,Home.class);
+        tv1.startAnimation(myanim);
+        final Intent i = new Intent(this,MainActivity.class);
         Thread timer = new Thread(){
 
             public void run (){

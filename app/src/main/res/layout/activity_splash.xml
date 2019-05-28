@@ -33,6 +33,18 @@
             android:textSize="23sp"
             android:textStyle="bold" />
 
+        <TextView
+            android:id="@+id/tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30sp"
+            android:textAlignment="center"
+            android:text="Aquí aprenderás los tipos de suelos"
+            android:textColor="#000"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>

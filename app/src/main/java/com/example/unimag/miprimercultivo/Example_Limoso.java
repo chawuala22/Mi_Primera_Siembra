@@ -14,7 +14,10 @@ public class Example_Limoso extends AppCompatActivity {
 
 
 
-
+        Toolbar toolbar = findViewById(R.id.toolbar6);
+        setSupportActionBar(toolbar);
+        getSupportActionBar().setTitle("ARROZ");
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
 
     }

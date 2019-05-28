@@ -22,17 +22,25 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
+
         <activity android:name=".Potato">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".Example_Arenoso" />
         </activity>
-        <activity android:name=".Example_Limoso" />
+
+        <activity android:name=".Example_Limoso">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".Example_Limoso" />
+
+        </activity>
         <activity android:name=".Example_Arcilloso">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".Example_Arcilloso" />
         </activity>
+
         <activity android:name=".Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
